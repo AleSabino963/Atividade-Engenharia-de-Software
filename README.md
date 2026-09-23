@@ -1,5 +1,6 @@
 EXERCÍCIOS DE FIXAÇÃO — estude respondendo 
 1. Explique as três áreas do Git e diga qual comando move um arquivo entre cada par delas.
+	R: As três áreas são: Diretório de trabalho, Staging e Repositório. Utiliza-se os comandos "git add" e "git commit" para mover, respectivamente, a área que um arquivo está. 
 
 2. Reescreva as mensagens de commit a seguir de modo que sirvam a quem lê o histórico: «ajustes», «agora foi», «correções diversas».
 
