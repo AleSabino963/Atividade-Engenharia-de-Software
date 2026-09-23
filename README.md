@@ -17,6 +17,7 @@ E o delimitador do conteúdo do ramo que está sendo inserido. Para resolver é 
 **5. Liste cinco tipos de arquivo que não devem ser versionados e explique o risco específico de cada um.**  
 R: Senhas, conteúdo sigiloso, chaves, dados bancários e informações pessoais. Toda informação commitada é salva no histórico mesmo que tenha sido deletada do arquivo logo em seguida.
 
-**6. Uma credencial foi commitada por engano e removida no commit seguinte. Explique por que isso não é suficiente e o que deve ser feito.**
+**6. Uma credencial foi commitada por engano e removida no commit seguinte. Explique por que isso não é suficiente e o que deve ser feito.**  
+R: Toda alteração commitada é salva no histórico. Credenciais commitadas acidentalmente devem ser trocadas e consideradas comprometidas.
 
 **7. Explique por que gestão de configuração é pré-requisito para testes automatizados e para qualquer forma de auditoria.**
