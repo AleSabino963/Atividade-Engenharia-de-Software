@@ -14,7 +14,8 @@ R: O principal motivo é a organização e segurança do projeto. Possibilita a 
 R: Um conflito se dá apartir de dois ramos que alteram a mesma linha de um mesmo arquivo. O delimitador do conteúdo do ramo atual é o ramo principal. O delimitador da linha divisória faz a divisa do ramo atual, pro ramo que está sendo inserido.  
 E o delimitador do conteúdo do ramo que está sendo inserido. Para resolver é necessário escolher um ramo, apagar o outro, testar e então concluir.
 
-**5. Liste cinco tipos de arquivo que não devem ser versionados e explique o risco específico de cada um.**
+**5. Liste cinco tipos de arquivo que não devem ser versionados e explique o risco específico de cada um.**  
+R: Senhas, conteúdo sigiloso, chaves, dados bancários e informações pessoais. Toda informação commitada é salva no histórico mesmo que tenha sido deletada do arquivo logo em seguida.
 
 **6. Uma credencial foi commitada por engano e removida no commit seguinte. Explique por que isso não é suficiente e o que deve ser feito.**
 
