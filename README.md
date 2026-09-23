@@ -7,7 +7,8 @@ R: As três áreas são: Diretório de trabalho, Staging e Repositório. Utiliza
 **2. Reescreva as mensagens de commit a seguir de modo que sirvam a quem lê o histórico: «ajustes», «agora foi», «correções diversas».**  
 R: Primeira pode ser "Ajuste de Formatação", na segunda "Correção na linha _nº da linha_" e na terceira "Correção do erro _nome do erro_"
 
-**3. Um colega pergunta por que não pode simplesmente fazer um commit por dia com tudo o que mexeu. Responda em cinco linhas.**
+**3. Um colega pergunta por que não pode simplesmente fazer um commit por dia com tudo o que mexeu. Responda em cinco linhas.**  
+R: O principal motivo é a organização e segurança do projeto. Possibilita a leitura de um histórico detalhado e completo com todas as mudanças feitas, podendo desfazer uma determinada linha ou parte do projeto em qualquer momento no futuro.
 
 **4. Explique por que ocorre um conflito, o que significa cada um dos três delimitadores inseridos pelo Git e quais passos resolvem a situação.**
 
